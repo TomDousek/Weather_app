@@ -1,0 +1,1 @@
+print("This programm will show live temperature.\n")
